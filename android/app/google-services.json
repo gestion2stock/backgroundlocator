@@ -1,0 +1,128 @@
+{
+  "project_info": {
+    "project_number": "82465206848",
+    "firebase_url": "https://delivery-service-85ecc-default-rtdb.firebaseio.com",
+    "project_id": "delivery-service-85ecc",
+    "storage_bucket": "delivery-service-85ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82465206848:android:17ebbba0e196e924c565a5",
+        "android_client_info": {
+          "package_name": "com.arinteck.delivery_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82465206848-v254c0j7njbvpup75skprollj1h5v1sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdlZpKezkvXEM3P8MzS0TLUmu0UHP6h1Y"
+        },
+        {
+          "current_key": "AIzaSyCtyd6BTBnEh07-0ShDsYBSBPr-u84NaI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82465206848-v254c0j7njbvpup75skprollj1h5v1sl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82465206848-6sialb1l7avrr8u44rjis4npr4digj9k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arinteck.deliveryService"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82465206848:android:24b937aedf98f7afc565a5",
+        "android_client_info": {
+          "package_name": "com.arinteck.stockgestion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82465206848-v254c0j7njbvpup75skprollj1h5v1sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdlZpKezkvXEM3P8MzS0TLUmu0UHP6h1Y"
+        },
+        {
+          "current_key": "AIzaSyCtyd6BTBnEh07-0ShDsYBSBPr-u84NaI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82465206848-v254c0j7njbvpup75skprollj1h5v1sl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82465206848-6sialb1l7avrr8u44rjis4npr4digj9k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arinteck.deliveryService"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82465206848:android:5ab5d7bc782c77f4c565a5",
+        "android_client_info": {
+          "package_name": "com.example.backgroundlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82465206848-v254c0j7njbvpup75skprollj1h5v1sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdlZpKezkvXEM3P8MzS0TLUmu0UHP6h1Y"
+        },
+        {
+          "current_key": "AIzaSyCtyd6BTBnEh07-0ShDsYBSBPr-u84NaI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82465206848-v254c0j7njbvpup75skprollj1h5v1sl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82465206848-6sialb1l7avrr8u44rjis4npr4digj9k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arinteck.deliveryService"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
